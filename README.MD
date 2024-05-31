@@ -27,9 +27,9 @@ Below is the list of exercises along with their respective Leetcode links and vi
    - [Leetcode Problem](https://leetcode.com/problems/two-sum/)
    - [Neetcode Video](https://www.youtube.com/watch?v=KLlXCFG5TnA)
 
-4. **Median of Two Sorted Arrays**
-   - [Leetcode Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-   - [Neetcode Video](https://www.youtube.com/watch?v=q6IEA26hvXc)
+4. **169. Majority Element**
+   - [Leetcode Problem](https://leetcode.com/problems/majority-element/description/)
+   - [Youtube Video](https://www.youtube.com/watch?v=UoTI6zBIBMo)
 
 5. **Longest Palindromic Substring**
    - [Leetcode Problem](https://leetcode.com/problems/longest-palindromic-substring/)
