@@ -23,9 +23,9 @@ Below is the list of exercises along with their respective Leetcode links and vi
    - [Leetcode Problem](https://leetcode.com/problems/contains-duplicate/description/)
    - [Neetcode Video](https://www.youtube.com/watch?v=3OamzN90kPg)
 
-3. **Longest Substring Without Repeating Characters**
-   - [Leetcode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-   - [Neetcode Video](https://www.youtube.com/watch?v=wiGpQwVHdE0)
+3. **1. Two Sum**
+   - [Leetcode Problem](https://leetcode.com/problems/two-sum/)
+   - [Neetcode Video](https://www.youtube.com/watch?v=KLlXCFG5TnA)
 
 4. **Median of Two Sorted Arrays**
    - [Leetcode Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/)
