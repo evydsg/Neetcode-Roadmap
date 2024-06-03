@@ -31,9 +31,9 @@ Below is the list of exercises along with their respective Leetcode links and vi
    - [Leetcode Problem](https://leetcode.com/problems/majority-element/description/)
    - [Youtube Video](https://www.youtube.com/watch?v=UoTI6zBIBMo)
 
-5. **Longest Palindromic Substring**
-   - [Leetcode Problem](https://leetcode.com/problems/longest-palindromic-substring/)
-   - [Neetcode Video](https://www.youtube.com/watch?v=XYQecbcd6_c)
+5. **242.Valid Anagram**
+   - [Leetcode Problem](https://leetcode.com/problems/valid-anagram/description/)
+   - [Neetcode Video](https://www.youtube.com/watch?v=9UtInBqnCgA)
 
 *Continue adding more exercises in the same format as you progress through the roadmap.*
 
