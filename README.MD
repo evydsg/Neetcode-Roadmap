@@ -42,8 +42,11 @@ Below is the list of exercises along with their respective Leetcode links and vi
 5. **2351. First Letter to Appear Twice**
    - [Leetcode Problem](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
 
-5. **128. Longest Consecutive Sequence**
+6. **128. Longest Consecutive Sequence**
    - [Leetcode Problem](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+
+7. **49. Group Anagrams**
+   - [Leetcode Problem](https://leetcode.com/problems/group-anagrams/description/)
 
 
 
