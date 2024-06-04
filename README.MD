@@ -42,6 +42,11 @@ Below is the list of exercises along with their respective Leetcode links and vi
 5. **2351. First Letter to Appear Twice**
    - [Leetcode Problem](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
 
+5. **128. Longest Consecutive Sequence**
+   - [Leetcode Problem](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+
+
+
 *Continue adding more exercises in the same format as you progress through the roadmap.*
 
 Happy coding and good luck with your technical interview preparation!
