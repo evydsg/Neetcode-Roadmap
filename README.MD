@@ -39,6 +39,9 @@ Below is the list of exercises along with their respective Leetcode links and vi
    - [Leetcode Problem](https://leetcode.com/problems/top-k-frequent-elements/description/)
    - [Neetcode Video](https://www.youtube.com/watch?v=YPTqKIgVk-k)
 
+5. **2351. First Letter to Appear Twice**
+   - [Leetcode Problem](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
+
 *Continue adding more exercises in the same format as you progress through the roadmap.*
 
 Happy coding and good luck with your technical interview preparation!
