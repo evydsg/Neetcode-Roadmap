@@ -48,6 +48,9 @@ Below is the list of exercises along with their respective Leetcode links and vi
 7. **49. Group Anagrams**
    - [Leetcode Problem](https://leetcode.com/problems/group-anagrams/description/)
 
+8. **125. Valid Palindrome**
+   - [Leetcode Problem](https://leetcode.com/problems/valid-palindrome/description/)
+
 
 
 *Continue adding more exercises in the same format as you progress through the roadmap.*
