@@ -51,6 +51,9 @@ Below is the list of exercises along with their respective Leetcode links and vi
 8. **125. Valid Palindrome**
    - [Leetcode Problem](https://leetcode.com/problems/valid-palindrome/description/)
 
+9. **167. Two Sum II - Input Array Is Sorted**
+   - [Leetcode Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
 
 
 *Continue adding more exercises in the same format as you progress through the roadmap.*
