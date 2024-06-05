@@ -54,6 +54,9 @@ Below is the list of exercises along with their respective Leetcode links and vi
 9. **167. Two Sum II - Input Array Is Sorted**
    - [Leetcode Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
+10. **80. Remove Duplicates from Sorted Array II**
+   - [Leetcode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
+
 
 
 *Continue adding more exercises in the same format as you progress through the roadmap.*
