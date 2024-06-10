@@ -60,7 +60,8 @@ Below is the list of exercises along with their respective Leetcode links and vi
 11. **26. Remove Duplicates from Sorted Array**
    - [Leetcode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
 
-
+12. **3Sum**
+   - [Leetcode Problem](https://leetcode.com/problems/3sum/)
 
 *Continue adding more exercises in the same format as you progress through the roadmap.*
 
