@@ -63,8 +63,11 @@ Below is the list of exercises along with their respective Leetcode links and vi
 12. **3Sum**
    - [Leetcode Problem](https://leetcode.com/problems/3sum/)
 
-12. **21. Merge Two Sorted Lists**
+13. **21. Merge Two Sorted Lists**
    - [Leetcode Problem](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+14. **150. Evaluate Reverse Polish Notation**
+   - [Leetcode Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 *Continue adding more exercises in the same format as you progress through the roadmap.*
 
