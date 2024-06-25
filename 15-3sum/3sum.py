@@ -26,7 +26,7 @@ class Solution:
                 elif Sum < 0:
                     left += 1
                 
-                elif Sum > 0:
+                else:
                     right -= 1
         
         return answer
