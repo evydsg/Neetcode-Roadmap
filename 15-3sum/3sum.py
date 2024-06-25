@@ -29,8 +29,7 @@ class Solution:
                         left += 1  # Skip duplicates
                     while left < right and nums[right] == nums[right - 1]:
                         right -= 1  # Skip duplicates
+
                     left += 1
                     right -=1
-            
-        
         return answer
