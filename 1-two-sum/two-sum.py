@@ -19,7 +19,8 @@ class Solution:
                 - Check if the difference exists in the dictionary
 
             Evaluate:
-                - 
+                - Time Complexity: O(n), since we traverse through the array
+                - Space Complexity: O(n), due to the dictionary
 
         """
         dictionary = {}
