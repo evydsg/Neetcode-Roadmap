@@ -1,9 +1,5 @@
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
-        from typing import List
-
-class Solution:
-    def findJudge(self, n: int, trust: List[List[int]]) -> int:
         if n == 0:
             return -1
         
