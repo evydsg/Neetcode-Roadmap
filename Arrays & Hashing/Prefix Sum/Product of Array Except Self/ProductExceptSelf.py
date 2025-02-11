@@ -9,7 +9,7 @@ class Solution:
         
         postfix = 1
         for index in range(len(nums)-1, -1, -1):
-            postfix *= num if index < len(nums)-1 else 1
+            postfix *= nums[index] if index < len(nums)-1 else 1
             nums[index] *= postfix
         
         
