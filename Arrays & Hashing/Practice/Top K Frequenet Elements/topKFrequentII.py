@@ -1,5 +1,5 @@
- class Solution:
-    def topKFrequent(self, nums: List[int]) -> List[int]:
+class Solution:
+    def topKFrequent(self, nums: List[int], k:int) -> List[int]:
         count = {}
         frequency =[[] for index in range(len(nums) + 1)]
 
